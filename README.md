@@ -10,10 +10,7 @@ Router **R4** works as the redistribution point between all three routing domain
 
 ### Network Topology
 
-```
-   <img width="1584" height="618" alt="Screenshot 2025-10-27 112512" src="https://github.com/user-attachments/assets/ad35a380-10a8-4c03-bac7-c0fae39ec132" />
-
-```
+<img width="1584" height="618" alt="Screenshot 2025-10-27 112512" src="https://github.com/user-attachments/assets/01af06c7-df17-445a-96d0-d97a13a68405" />
 
 ---
 
